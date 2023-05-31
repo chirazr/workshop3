@@ -1,0 +1,62 @@
+/* *{
+    margin: 0;
+    padding: 0;
+}
+*/
+
+header{
+    background-color: lightgreen;
+    padding: 30px;
+    text-align: center;
+}
+header p {
+    color:white;
+}
+footer{
+    background-color: orangered;
+    padding: 10px;
+    width: auto;
+    text-align: center;
+
+}
+footer p {
+    color:white;
+
+}
+
+.para {
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    color: white;
+    
+}
+.para .para1{
+    width: 20%;
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+  
+
+}
+
+.para .para2{
+    width: 80%;
+    background-color: violet;
+    display: flex;
+    
+}
+.liste {
+    text-decoration: none;
+    display: block;
+
+}
+ li {
+    border-bottom: 1px solid white;
+    line-height: 40px;
+    list-style: none;
+}
+
+
+
+
